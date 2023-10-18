@@ -67,25 +67,23 @@ header .navigation_bar ul li a:visited {
   transform: scaleZ(1.1);
 }
 #intro .heading {
-  border: 2px solid;
   display: flex;
   text-align: center;
   flex-direction: column;
   justify-content: center;
-  background-color: rgb(69, 69, 69);
+  background-color: rgb(69 69 69 / 38%);
   margin: 8px 50px;
   padding: 8px 50px;
   line-height: 4rem;
 }
 #intro .para {
-  border: 2px solid;
   display: flex;
   text-align: center;
   flex-direction: column;
   justify-content: center;
   margin: 8px 50px;
   padding: 8px 50px;
-  background-color: rgb(69, 69, 69);
+  background-color: rgb(69 69 69 / 29%);
   color: white;
 }
 #intro .heading h1 {
